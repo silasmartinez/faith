@@ -1,0 +1,11 @@
+{
+  "name": "faith",
+  "version": "0.0.2",
+  "description": "Another way of working with promises",
+  "main": "faith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silas Martinez",
+  "license": "MIT"
+}
