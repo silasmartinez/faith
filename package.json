@@ -1,11 +1,23 @@
 {
   "name": "faith",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Another way of working with promises",
   "main": "faith.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silasmartinez/faith.git"
+  },
   "author": "Silas Martinez",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silasmartinez/faith/issues"
+  },
+  "homepage": "https://github.com/silasmartinez/faith",
+  "keywords": [
+    "promises",
+    "javascript"
+  ]
 }
